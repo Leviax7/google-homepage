@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://www.google.ca/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png");
+  background-repeat: no-repeat;
+  background-position: 50% 190px;
+}
+.Canada{
+  text-align:center;
+  padding-top:257px;
+  padding-left:213px;
+  font: 16px/16px roboto-regular, arial, sans-serif;
+  color: #4285f4;
+}
+
+.Search{
+  padding-top:20px;
+  text-align:center;
+}
+.Search2{
+  padding-top:30px;
+  width:565px;
+  border:1px solid #ededed ;
+  box-shadow: 0px 1px 2px #a3a3a3;
+}
+.Buttons{
+text-align: center;
+padding: 20px;
+}
