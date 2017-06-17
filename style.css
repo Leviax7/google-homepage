@@ -5,7 +5,7 @@ body {
 }
 .Canada{
   text-align:center;
-  padding-top:257px;
+  padding-top:220px;
   padding-left:213px;
   font: 16px/16px roboto-regular, arial, sans-serif;
   color: #4285f4;
@@ -51,6 +51,49 @@ padding: 30px;
   font-family: arial,sans-serif;
   font-size: small;
 }
-a{
+.TopBar{
+  text-align: right;
+  padding-right: 10px;
+  font-family: arial,sans-serif;
+  font-size: 13px;
+
+
+}
+#Gmail{
+  color: black;
   text-decoration: none;
+}
+#Images{
+  color: black;
+  text-decoration: none;
+}
+#Gmail:hover{
+  text-decoration: underline;
+}
+#Images:hover{
+  text-decoration: underline;
+}
+.Gmail{
+  display: inline-block;
+  margin: 10px;
+}
+.Images{
+  display: inline-block;
+}
+.UserIcon{
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 5px;
+
+}
+#UserIcon{
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+
+}
+
+.FrenchLink{
+text-decoration: none;
+
 }
