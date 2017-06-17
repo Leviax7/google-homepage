@@ -23,11 +23,11 @@ body {
   color: #4285f4;
 }
 
-.Search{
+.SearchBar{
   padding-top:20px;
   text-align:center;
 }
-.Search2{
+.SearchBarInput{
   height: 38px;
   width:560px;
   border:1px solid #ededed ;
