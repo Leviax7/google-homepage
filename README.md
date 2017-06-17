@@ -1,3 +1,3 @@
-Going to attempt to build the google.com homepage with absolutely minimal HTML and CSS knowledge. Will update with what I have learned later.
+Going to attempt to build the google.com homepage with absolutely minimal HTML and CSS knowledge.
 
-End of day June 15, 2017 - Learned how to use CSS to align Google logo vertically and horizontally.
+End of day June 16, 2017 - Finished Building Google.ca homepage. Took 2 days and a lot of googling and research. Have learned an overwhelming amount of HTML and CSS.
